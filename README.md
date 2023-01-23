@@ -1,2 +1,2 @@
 # MySite
-More advance CV site, implementing further CSS.
+More advanced CV site, implementing further CSS.
